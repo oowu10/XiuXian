@@ -1,0 +1,187 @@
+{
+    "1": [
+        {
+            "type": "1",
+            "itemId": "1",
+            "itemNum": 10,
+            "weight": 2000,
+            "desc": "路遇洞天福地，修炼获得真气*"
+        },
+        {
+            "type": "2",
+            "itemId": "1",
+            "itemNum": 20,
+            "weight": 2000,
+            "desc": "路遇洞天福地，修炼获得真气*"
+        },
+        {
+            "type": "3",
+            "itemId": "1",
+            "itemNum": 30,
+            "weight": 2000,
+            "desc": "路遇洞天福地，修炼获得真气*"
+        },
+        {
+            "type": "4",
+            "itemId": "1001",
+            "itemNum": 1,
+            "weight": 2000,
+            "desc": "偶遇陈圆圆，获得陈圆圆信物*1"
+        },
+        {
+            "type": "5",
+            "itemId": "1002",
+            "itemNum": 2,
+            "weight": 2000,
+            "desc": "偶遇李师师，获得李师师信物*1"
+        }
+    ],
+    "2": [
+        {
+            "type": "6",
+            "itemId": "1",
+            "itemNum": 10,
+            "weight": 2000,
+            "desc": "路遇洞天福地，修炼获得真气*"
+        },
+        {
+            "type": "7",
+            "itemId": "1",
+            "itemNum": 20,
+            "weight": 2000,
+            "desc": "路遇洞天福地，修炼获得真气*"
+        },
+        {
+            "type": "8",
+            "itemId": "1",
+            "itemNum": 30,
+            "weight": 2000,
+            "desc": "路遇洞天福地，修炼获得真气*"
+        },
+        {
+            "type": "9",
+            "itemId": "1001",
+            "itemNum": 1,
+            "weight": 2000,
+            "desc": "偶遇陈圆圆，获得陈圆圆信物*1"
+        },
+        {
+            "type": "10",
+            "itemId": "1002",
+            "itemNum": 2,
+            "weight": 2000,
+            "desc": "偶遇李师师，获得李师师信物*1"
+        }
+    ],
+    "3": [
+        {
+            "type": "11",
+            "itemId": "1",
+            "itemNum": 10,
+            "weight": 2000,
+            "desc": "路遇洞天福地，修炼获得真气*"
+        },
+        {
+            "type": "12",
+            "itemId": "1",
+            "itemNum": 20,
+            "weight": 2000,
+            "desc": "路遇洞天福地，修炼获得真气*"
+        },
+        {
+            "type": "13",
+            "itemId": "1",
+            "itemNum": 30,
+            "weight": 2000,
+            "desc": "路遇洞天福地，修炼获得真气*"
+        },
+        {
+            "type": "14",
+            "itemId": "1001",
+            "itemNum": 1,
+            "weight": 2000,
+            "desc": "偶遇陈圆圆，获得陈圆圆信物*1"
+        },
+        {
+            "type": "15",
+            "itemId": "1002",
+            "itemNum": 2,
+            "weight": 2000,
+            "desc": "偶遇李师师，获得李师师信物*1"
+        }
+    ],
+    "4": [
+        {
+            "type": "16",
+            "itemId": "1",
+            "itemNum": 10,
+            "weight": 2000,
+            "desc": "路遇洞天福地，修炼获得真气*"
+        },
+        {
+            "type": "17",
+            "itemId": "1",
+            "itemNum": 20,
+            "weight": 2000,
+            "desc": "路遇洞天福地，修炼获得真气*"
+        },
+        {
+            "type": "18",
+            "itemId": "1",
+            "itemNum": 30,
+            "weight": 2000,
+            "desc": "路遇洞天福地，修炼获得真气*"
+        },
+        {
+            "type": "19",
+            "itemId": "1001",
+            "itemNum": 1,
+            "weight": 2000,
+            "desc": "偶遇陈圆圆，获得陈圆圆信物*1"
+        },
+        {
+            "type": "20",
+            "itemId": "1002",
+            "itemNum": 2,
+            "weight": 2000,
+            "desc": "偶遇李师师，获得李师师信物*1"
+        }
+    ],
+    "5": [
+        {
+            "type": "21",
+            "itemId": "1",
+            "itemNum": 10,
+            "weight": 2000,
+            "desc": "路遇洞天福地，修炼获得真气*"
+        },
+        {
+            "type": "22",
+            "itemId": "1",
+            "itemNum": 20,
+            "weight": 2000,
+            "desc": "路遇洞天福地，修炼获得真气*"
+        },
+        {
+            "type": "23",
+            "itemId": "1",
+            "itemNum": 30,
+            "weight": 2000,
+            "desc": "路遇洞天福地，修炼获得真气*"
+        },
+        {
+            "type": "24",
+            "itemId": "1001",
+            "itemNum": 1,
+            "weight": 2000,
+            "desc": "偶遇陈圆圆，获得陈圆圆信物*1"
+        },
+        {
+            "type": "25",
+            "itemId": "1002",
+            "itemNum": 2,
+            "weight": 2000,
+            "desc": "偶遇李师师，获得李师师信物*1"
+        }
+    ]
+}

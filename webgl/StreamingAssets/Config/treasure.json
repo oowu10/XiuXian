@@ -1,0 +1,54 @@
+{
+    "1": [
+        {
+            "type": "1",
+            "itemId": "1",
+            "itemNum": 10,
+            "weight": 2000,
+            "name": "小宝箱",
+            "desc": "天天大鱼大肉",
+            "rewardDesc": "获得真气*",
+            "iconId": 5
+        },
+        {
+            "type": "2",
+            "itemId": "1",
+            "itemNum": 20,
+            "weight": 2000,
+            "name": "中宝箱",
+            "desc": "西红柿炒鸡蛋比较好吃",
+            "rewardDesc": "获得真气*",
+            "iconId": 6
+        },
+        {
+            "type": "3",
+            "itemId": "1",
+            "itemNum": 30,
+            "weight": 2000,
+            "name": "大宝箱",
+            "desc": "欧皇的世界你不懂",
+            "rewardDesc": "获得真气*",
+            "iconId": 7
+        },
+        {
+            "type": "4",
+            "itemId": "1001",
+            "itemNum": 1,
+            "weight": 2000,
+            "name": "绝世密藏",
+            "desc": "只有万分之一的概率",
+            "rewardDesc": "获得道具1*",
+            "iconId": 6
+        },
+        {
+            "type": "5",
+            "itemId": "1002",
+            "itemNum": 2,
+            "weight": 2000,
+            "name": "天地宝库",
+            "desc": "很好，今天的世界属于你",
+            "rewardDesc": "获得道具2*",
+            "iconId": 5
+        }
+    ]
+}
